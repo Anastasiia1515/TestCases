@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#QM27042021-79] User’s account deleting</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.ithillel.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [QM27042021-79]&nbsp;<a href="https://jira.ithillel.com/browse/QM27042021-79">User’s account deleting</a>
+            <span class="subText">
+               Created: 03/Jun/21                   &nbsp;Updated: 03/Jun/21
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://jira.ithillel.com/secure/BrowseProject.jspa?id=10177">QA Manual (27.04.2021)</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Highest
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="AnastasiiaNegru" id="word_reporter_AnastasiiaNegru" href="https://jira.ithillel.com/secure/ViewProfile.jspa?name=AnastasiiaNegru">Anastasiia Negru</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="ed.izotov@gmail.com" id="word_assignee_ed.izotov@gmail.com" href="https://jira.ithillel.com/secure/ViewProfile.jspa?name=ed.izotov%40gmail.com">Ed Izotov</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-23311-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Zephyr Teststep:</b></td>
+                <td id="customfield_10200-23311-value" class="value" bgcolor="#ffffff" width="80%">        <div>
+        <table id="project-config-steps-table" class="aui" style="width: 100%">
+            <thead>
+            <tr>
+                <th style="max-height: 25px;"></th>
+                <th style="max-height: 25px;">Test Step</th>
+                <th style="max-height: 25px;">Test Data</th>
+                <th style="max-height: 25px;">Expected Result</th>
+                <th style="max-height: 25px;">Attachment Details</th>
+                <th style="max-height: 25px;">Test Step Custom Fields</th>
+            </tr>
+            </thead>
+            <tbody>
+                
+                    
+                    
+                    <tr style="word-wrap: break-word;">
+                        <td style="max-height: 25px;">1</td>
+                        <td style="max-height: 25px;"><p>Open the main page <a href="http://151.80.70.42:3000/" class="external-link" target="_blank" rel="nofollow noopener">http://151.80.70.42:3000/</a></p></td>
+                        <td style="max-height: 25px;"><p><a href="http://151.80.70.42:3000/" class="external-link" target="_blank" rel="nofollow noopener">http://151.80.70.42:3000/</a></p></td>
+                        <td style="max-height: 25px;"><p>The main page is opened.</p></td>
+                        <td style="max-height: 25px;"></td>
+                        <td style="max-height: 25px;"></td>
+                    </tr>
+                
+                    
+                    
+                    <tr style="word-wrap: break-word;">
+                        <td style="max-height: 25px;">2</td>
+                        <td style="max-height: 25px;"><p>Click on the “Add New Content” button.</p></td>
+                        <td style="max-height: 25px;"></td>
+                        <td style="max-height: 25px;"><p>The input fields for entering Name, phone, and role of the new user are displayed.</p></td>
+                        <td style="max-height: 25px;"></td>
+                        <td style="max-height: 25px;"></td>
+                    </tr>
+                
+                    
+                    
+                    <tr style="word-wrap: break-word;">
+                        <td style="max-height: 25px;">3</td>
+                        <td style="max-height: 25px;"><p>Enter valid name (Latin alphabetic values) in the Name field.</p></td>
+                        <td style="max-height: 25px;"><p>Name: Charlie</p></td>
+                        <td style="max-height: 25px;"><p>The name is displayed in the Name field.</p></td>
+                        <td style="max-height: 25px;"></td>
+                        <td style="max-height: 25px;"></td>
+                    </tr>
+                
+                    
+                    
+                    <tr style="word-wrap: break-word;">
+                        <td style="max-height: 25px;">4</td>
+                        <td style="max-height: 25px;"><p>Enter valid phone number format in the Phone field </p></td>
+                        <td style="max-height: 25px;"><p>Phone number: +380992828777</p></td>
+                        <td style="max-height: 25px;"><p>The phone number is displayed in the Phone field.</p></td>
+                        <td style="max-height: 25px;"></td>
+                        <td style="max-height: 25px;"></td>
+                    </tr>
+                
+                    
+                    
+                    <tr style="word-wrap: break-word;">
+                        <td style="max-height: 25px;">5</td>
+                        <td style="max-height: 25px;"><p>Choose the Student role in the dropdown list.</p></td>
+                        <td style="max-height: 25px;"></td>
+                        <td style="max-height: 25px;"><p>The role of a Student is chosen in the dropdown list.</p></td>
+                        <td style="max-height: 25px;"></td>
+                        <td style="max-height: 25px;"></td>
+                    </tr>
+                
+                    
+                    
+                    <tr style="word-wrap: break-word;">
+                        <td style="max-height: 25px;">6</td>
+                        <td style="max-height: 25px;"><p>Click on the “Create” button.</p></td>
+                        <td style="max-height: 25px;"></td>
+                        <td style="max-height: 25px;"><p>The new user with the entered data is created and added to the list of Users.</p></td>
+                        <td style="max-height: 25px;"></td>
+                        <td style="max-height: 25px;"></td>
+                    </tr>
+                
+                    
+                    
+                    <tr style="word-wrap: break-word;">
+                        <td style="max-height: 25px;">7</td>
+                        <td style="max-height: 25px;"><p>Find the newly-created User on the Users list and click on the “Delete” button.</p></td>
+                        <td style="max-height: 25px;"></td>
+                        <td style="max-height: 25px;"><p>The created User is deleted.</p></td>
+                        <td style="max-height: 25px;"></td>
+                        <td style="max-height: 25px;"></td>
+                    </tr>
+                            </tbody>
+        </table>
+    </div>
+    </td>
+            </tr>
+            </table>
+
+
+Generated at Sun Aug 15 13:45:42 EEST 2021 by Anastasiia Negru using Jira 8.5.6#805006-sha1:4c63febd564848d8fbba7974be021da2081c1856.
+
+</body>
+</html>
